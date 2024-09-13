@@ -1,0 +1,14 @@
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\bin\Debug\net8.0\Beolvasas_gyak.exe
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\bin\Debug\net8.0\Beolvasas_gyak.deps.json
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\bin\Debug\net8.0\Beolvasas_gyak.runtimeconfig.json
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\bin\Debug\net8.0\Beolvasas_gyak.dll
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\bin\Debug\net8.0\Beolvasas_gyak.pdb
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.AssemblyInfoInputs.cache
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.AssemblyInfo.cs
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.csproj.CoreCompileInputs.cache
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.dll
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\refint\Beolvasas_gyak.dll
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.pdb
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\Beolvasas_gyak.genruntimeconfig.cache
+C:\Users\monus.bence\source\repos\Beolvasas_gyak\Beolvasas_gyak\obj\Debug\net8.0\ref\Beolvasas_gyak.dll
